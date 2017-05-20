@@ -1,0 +1,32 @@
+C:\Users\mattj\documents\visual studio 2017\Projects\ProjetFinalProg2\ProjetFinalProg2\bin\Windows\x86\Debug\ProjetFinalProg2.exe
+C:\Users\mattj\documents\visual studio 2017\Projects\ProjetFinalProg2\ProjetFinalProg2\bin\Windows\x86\Debug\ProjetFinalProg2.pdb
+C:\Users\mattj\documents\visual studio 2017\Projects\ProjetFinalProg2\ProjetFinalProg2\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\mattj\documents\visual studio 2017\Projects\ProjetFinalProg2\ProjetFinalProg2\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\mattj\documents\visual studio 2017\Projects\ProjetFinalProg2\ProjetFinalProg2\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\mattj\documents\visual studio 2017\Projects\ProjetFinalProg2\ProjetFinalProg2\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\mattj\documents\visual studio 2017\Projects\ProjetFinalProg2\ProjetFinalProg2\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\mattj\documents\visual studio 2017\Projects\ProjetFinalProg2\ProjetFinalProg2\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\mattj\documents\visual studio 2017\Projects\ProjetFinalProg2\ProjetFinalProg2\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\mattj\documents\visual studio 2017\Projects\ProjetFinalProg2\ProjetFinalProg2\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\mattj\documents\visual studio 2017\Projects\ProjetFinalProg2\ProjetFinalProg2\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\mattj\documents\visual studio 2017\Projects\ProjetFinalProg2\ProjetFinalProg2\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\mattj\documents\visual studio 2017\Projects\ProjetFinalProg2\ProjetFinalProg2\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\mattj\documents\visual studio 2017\Projects\ProjetFinalProg2\ProjetFinalProg2\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\mattj\documents\visual studio 2017\Projects\ProjetFinalProg2\ProjetFinalProg2\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\mattj\documents\visual studio 2017\Projects\ProjetFinalProg2\ProjetFinalProg2\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\mattj\documents\visual studio 2017\Projects\ProjetFinalProg2\ProjetFinalProg2\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\mattj\documents\visual studio 2017\Projects\ProjetFinalProg2\ProjetFinalProg2\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\mattj\documents\visual studio 2017\Projects\ProjetFinalProg2\ProjetFinalProg2\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\mattj\documents\visual studio 2017\Projects\ProjetFinalProg2\ProjetFinalProg2\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\mattj\documents\visual studio 2017\Projects\ProjetFinalProg2\ProjetFinalProg2\obj\x86\Debug\ProjetFinalProg2.csprojResolveAssemblyReference.cache
+C:\Users\mattj\documents\visual studio 2017\Projects\ProjetFinalProg2\ProjetFinalProg2\obj\x86\Debug\ProjetFinalProg2.exe
+C:\Users\mattj\documents\visual studio 2017\Projects\ProjetFinalProg2\ProjetFinalProg2\obj\x86\Debug\ProjetFinalProg2.pdb
+C:\Users\mattj\documents\visual studio 2017\Projects\ProjetFinalProg2\ProjetFinalProg2\bin\Windows\x86\Debug\Content\media\héro.xnb
+C:\Users\mattj\documents\visual studio 2017\Projects\ProjetFinalProg2\ProjetFinalProg2\bin\Windows\x86\Debug\Content\media\background.xnb
+C:\Users\mattj\documents\visual studio 2017\Projects\ProjetFinalProg2\ProjetFinalProg2\bin\Windows\x86\Debug\Content\media\ennemi 1.xnb
+C:\Users\mattj\documents\visual studio 2017\Projects\ProjetFinalProg2\ProjetFinalProg2\bin\Windows\x86\Debug\Content\media\ennemi 2.xnb
+C:\Users\mattj\documents\visual studio 2017\Projects\ProjetFinalProg2\ProjetFinalProg2\bin\Windows\x86\Debug\Content\media\ennemi 3.xnb
+C:\Users\mattj\documents\visual studio 2017\Projects\ProjetFinalProg2\ProjetFinalProg2\bin\Windows\x86\Debug\Content\media\ennemi 4.xnb
+C:\Users\mattj\documents\visual studio 2017\Projects\ProjetFinalProg2\ProjetFinalProg2\bin\Windows\x86\Debug\Content\media\projectile 1.xnb
+C:\Users\mattj\documents\visual studio 2017\Projects\ProjetFinalProg2\ProjetFinalProg2\bin\Windows\x86\Debug\Content\media\projectile 2.xnb
+C:\Users\mattj\documents\visual studio 2017\Projects\ProjetFinalProg2\ProjetFinalProg2\bin\Windows\x86\Debug\Content\media\powerUp.xnb

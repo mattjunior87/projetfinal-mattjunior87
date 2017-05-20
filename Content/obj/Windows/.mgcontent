@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/mattj/documents/visual studio 2017/Projects/ProjetFinalProg2/ProjetFinalProg2/Content/media/héro.png</File>
+    <File>C:/Users/mattj/documents/visual studio 2017/Projects/ProjetFinalProg2/ProjetFinalProg2/Content/media/background.jpg</File>
+    <File>C:/Users/mattj/documents/visual studio 2017/Projects/ProjetFinalProg2/ProjetFinalProg2/Content/media/ennemi 1.png</File>
+    <File>C:/Users/mattj/documents/visual studio 2017/Projects/ProjetFinalProg2/ProjetFinalProg2/Content/media/ennemi 2.png</File>
+    <File>C:/Users/mattj/documents/visual studio 2017/Projects/ProjetFinalProg2/ProjetFinalProg2/Content/media/ennemi 3.png</File>
+    <File>C:/Users/mattj/documents/visual studio 2017/Projects/ProjetFinalProg2/ProjetFinalProg2/Content/media/ennemi 4.png</File>
+    <File>C:/Users/mattj/documents/visual studio 2017/Projects/ProjetFinalProg2/ProjetFinalProg2/Content/media/projectile 1.png</File>
+    <File>C:/Users/mattj/documents/visual studio 2017/Projects/ProjetFinalProg2/ProjetFinalProg2/Content/media/projectile 2.png</File>
+    <File>C:/Users/mattj/documents/visual studio 2017/Projects/ProjetFinalProg2/ProjetFinalProg2/Content/media/powerUp.jpg</File>
+  </SourceFiles>
+</SourceFileCollection>
